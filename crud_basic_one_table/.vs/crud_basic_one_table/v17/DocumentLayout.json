@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\crud_basic_one_table_csharp\\crud_basic_one_table\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68CDC005-606A-471C-BA6A-8DE97D5ED08D}|crud_basic_one_table\\crud_basic_one_table.csproj|c:\\xampp\\htdocs\\crud_basic_one_table_csharp\\crud_basic_one_table\\crud_basic_one_table\\migrations\\20250419225741_criandotabelausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CDC005-606A-471C-BA6A-8DE97D5ED08D}|crud_basic_one_table\\crud_basic_one_table.csproj|solutionrelative:crud_basic_one_table\\migrations\\20250419225741_criandotabelausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CDC005-606A-471C-BA6A-8DE97D5ED08D}|crud_basic_one_table\\crud_basic_one_table.csproj|c:\\xampp\\htdocs\\crud_basic_one_table_csharp\\crud_basic_one_table\\crud_basic_one_table\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CDC005-606A-471C-BA6A-8DE97D5ED08D}|crud_basic_one_table\\crud_basic_one_table.csproj|solutionrelative:crud_basic_one_table\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CDC005-606A-471C-BA6A-8DE97D5ED08D}|crud_basic_one_table\\crud_basic_one_table.csproj|c:\\xampp\\htdocs\\crud_basic_one_table_csharp\\crud_basic_one_table\\crud_basic_one_table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CDC005-606A-471C-BA6A-8DE97D5ED08D}|crud_basic_one_table\\crud_basic_one_table.csproj|solutionrelative:crud_basic_one_table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CDC005-606A-471C-BA6A-8DE97D5ED08D}|crud_basic_one_table\\crud_basic_one_table.csproj|c:\\xampp\\htdocs\\crud_basic_one_table_csharp\\crud_basic_one_table\\crud_basic_one_table\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68CDC005-606A-471C-BA6A-8DE97D5ED08D}|crud_basic_one_table\\crud_basic_one_table.csproj|solutionrelative:crud_basic_one_table\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\crud_basic_one_table_csharp\\crud_basic_one_table\\crud_basic_one_table\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "crud_basic_one_table\\Models\\Usuario.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\crud_basic_one_table_csharp\\crud_basic_one_table\\crud_basic_one_table\\Models\\Usuario.cs",
+              "RelativeToolTip": "crud_basic_one_table\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T22:58:57.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250419225741_CriandoTabelaUsuario.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\crud_basic_one_table_csharp\\crud_basic_one_table\\crud_basic_one_table\\Migrations\\20250419225741_CriandoTabelaUsuario.cs",
+              "RelativeDocumentMoniker": "crud_basic_one_table\\Migrations\\20250419225741_CriandoTabelaUsuario.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\crud_basic_one_table_csharp\\crud_basic_one_table\\crud_basic_one_table\\Migrations\\20250419225741_CriandoTabelaUsuario.cs",
+              "RelativeToolTip": "crud_basic_one_table\\Migrations\\20250419225741_CriandoTabelaUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T22:57:41.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\crud_basic_one_table_csharp\\crud_basic_one_table\\crud_basic_one_table\\Program.cs",
+              "RelativeDocumentMoniker": "crud_basic_one_table\\Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\crud_basic_one_table_csharp\\crud_basic_one_table\\crud_basic_one_table\\Program.cs",
+              "RelativeToolTip": "crud_basic_one_table\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T22:52:09.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\crud_basic_one_table_csharp\\crud_basic_one_table\\crud_basic_one_table\\appsettings.json",
+              "RelativeDocumentMoniker": "crud_basic_one_table\\appsettings.json",
+              "ToolTip": "C:\\xampp\\htdocs\\crud_basic_one_table_csharp\\crud_basic_one_table\\crud_basic_one_table\\appsettings.json",
+              "RelativeToolTip": "crud_basic_one_table\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-19T19:51:18.28Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
